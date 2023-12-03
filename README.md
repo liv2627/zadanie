@@ -1,1 +1,2 @@
-# zeto-git-course
+# Zeto Git Course
+
