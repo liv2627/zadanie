@@ -1,0 +1,5 @@
+com\practise\zeto\buyers\BuyerEntity.class
+com\practise\zeto\products\ProductEntity.class
+com\practise\zeto\global\GlobalEntity.class
+com\practise\zeto\sellers\SellerEntity.class
+com\practise\zeto\ZetoApplication.class
